@@ -1,0 +1,38 @@
+[
+  {
+    "number": 42,
+    "title": "Security: token leaked in debug logs",
+    "body": "When debug mode is enabled, the access token appears in logs.",
+    "labels": [],
+    "url": "https://github.com/example/project/issues/42",
+    "comments": 2,
+    "createdAt": "2026-05-01T12:00:00Z",
+    "updatedAt": "2026-05-29T12:00:00Z",
+    "authorAssociation": "CONTRIBUTOR",
+    "assignees": []
+  },
+  {
+    "number": 43,
+    "title": "Regression: import fails on Python 3.12",
+    "body": "After the latest release, importing the package crashes on Python 3.12.",
+    "labels": [{ "name": "bug" }],
+    "url": "https://github.com/example/project/issues/43",
+    "comments": 5,
+    "createdAt": "2026-05-20T12:00:00Z",
+    "updatedAt": "2026-05-28T12:00:00Z",
+    "authorAssociation": "MEMBER",
+    "assignees": [{ "login": "maintainer" }]
+  },
+  {
+    "number": 44,
+    "title": "Docs typo in installation guide",
+    "body": "The README says instlal instead of install.",
+    "labels": [],
+    "url": "https://github.com/example/project/issues/44",
+    "comments": 0,
+    "createdAt": "2026-03-01T12:00:00Z",
+    "updatedAt": "2026-03-01T12:00:00Z",
+    "authorAssociation": "FIRST_TIME_CONTRIBUTOR",
+    "assignees": []
+  }
+]

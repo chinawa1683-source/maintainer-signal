@@ -1,0 +1,14 @@
+.DS_Store
+.coverage
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+triage.md
+issues.json
+prs.json
