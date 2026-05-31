@@ -8,7 +8,7 @@ Thanks for helping improve Maintainer Signal.
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -e .
-python -m unittest
+python -m unittest discover -s tests
 ```
 
 ## Pull Request Guidelines
